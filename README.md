@@ -61,5 +61,5 @@
 
 ## 🔗 相關連結
 
-- **個人 Profile**: [Malemow/Malemow](https://github.com/Malemow/Malemow)
+- **個人 Profile**: [Malemow](https://github.com/Malemow)
 - **主要文檔**: [Malemow/Note](https://github.com/Malemow/Note)
